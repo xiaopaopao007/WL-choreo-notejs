@@ -1,4 +1,6 @@
-FROM daxia2023/choreo:latest
+# FROM daxia2023/choreo:latest 老镜像可删
+
+FROM daxia2023/choreo:v5
 
 USER 10016
 
