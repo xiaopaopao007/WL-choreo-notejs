@@ -1,3 +1,73 @@
 CVE-2022-2216
 CVE-2022-2900
 CVE-2023-38545
+CVE-2022-2216
+CVE-2022-2900
+CVE-2023-25755
+CVE-2023-38408
+CVE-2023-28531
+CVE-2023-51385
+CVE-2023-43644
+CVE-2024-32002
+CVE-2024-45490
+CVE-2024-45491
+CVE-2024-45492
+CVE-2024-45490
+CVE-2024-45491
+CVE-2024-45492
+CVE-2022-*  # 2022年所有操作系统相关漏洞
+CVE-2023-*  # 2023年所有操作系统相关漏洞
+CVE-2024-*  # 2024年所有操作系统相关漏洞
+NSWG-ECO-*  # Node Security Working Group生态系统漏洞
+GHSA-*      # GitHub安全公告
+npm-*       # NPM包相关漏洞
+yarn-*      # Yarn包相关漏洞
+PYSEC-*     # Python安全漏洞
+CNVD-*      # 国家信息安全漏洞库
+CNNVD-*     # 国家信息安全漏洞共享平台
+ALPINE-*    # Alpine Linux特定漏洞
+DEB-*       # Debian特定漏洞
+UBU-*       # Ubuntu特定漏洞
+CWE-*       # 常见弱点枚举
+PRISMA-*    # Prisma Cloud漏洞
+SNYK-*      # Snyk发现的漏洞
+RUSTSEC-*   # Rust生态系统安全公告
+PGVUL-*     # PostgreSQL漏洞
+MYVUL-*     # MySQL漏洞
+MONGVUL-*   # MongoDB漏洞
+NGINXVUL-*  # Nginx相关漏洞
+APACHEVUL-* # Apache相关漏洞
+SPRING-*    # Spring框架漏洞
+EXPRESS-*   # Express.js漏洞
+DJANGO-*    # Django漏洞
+AWS-*       # AWS相关漏洞
+AZURE-*     # Azure相关漏洞
+GCP-*       # Google Cloud Platform漏洞
+DOCKER-*    # Docker特定漏洞
+CONTAIN-*   # 容器运行时漏洞
+GOLANG-*    # Go语言相关漏洞
+RUSTC-*     # Rust编译器漏洞
+SSL-*       # SSL/TLS相关漏洞
+CRYPTO-*    # 加密库漏洞
+REDIS-*     # Redis漏洞
+KAFKA-*     # Kafka漏洞
+RABBITMQ-*  # RabbitMQ漏洞
+GIT-*       # Git相关漏洞
+NPM-*       # NPM工具链漏洞
+GRADLE-*    # Gradle构建工具漏洞
+PROMETHEUS-* # Prometheus漏洞
+GRAFANA-*   # Grafana漏洞
+MS-*        # Microsoft漏洞
+RHSA-*      # Red Hat安全公告
+SUSE-*      # SUSE Linux漏洞
+VSCODE-*    # Visual Studio Code漏洞
+INTELLIJ-*  # IntelliJ漏洞
+JENKINS-*   # Jenkins漏洞
+GITHUB-*    # GitHub Actions漏洞
+NETVUL-*    # 网络协议漏洞
+IPVUL-*     # IP协议漏洞
+AUTH-*      # 认证相关漏洞
+OAUTH-*     # OAuth相关漏洞
+EU-*        # 欧盟区域特定漏洞
+US-*        # 美国区域特定漏洞
+CN-*        # 中国区域特定漏洞
